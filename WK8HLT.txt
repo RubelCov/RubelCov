@@ -1,0 +1,17 @@
+Responsible AI is the practice of designing, developing, and deploying AI with good intention to empower employees and businesses, and fairly impact customers and society—allowing companies to engender trust and scale AI with confidence.
+For example, a self-driving car can take images from sensors. A machine learning model can use these images to make predictions. These predictions are used by the car to make decisions.
+Today, from health, fashion, and property, to food and travel, AI is rampant across industries. Its popularity has surged so much that it has even given life to some unusual applications.
+However, it’s not always smooth. According to a survey of global organizations that are already using AI, a quarter of surveyed companies reported up to 50% failure rate of their AI projects.
+Often, AI can end up becoming the source of new problems. For instance, Failure of Amazon’s recruitment process -
+Amazon started building machine learning programs in 2014 to review job applicants’ resumes. However, the AI-based experimental hiring tool had a major flaw: it was biased against women.
+The model was trained to assess applications by studying resumes submitted to the company over a span of 10 years. As most of these resumes were submitted by men, the system taught itself to favor male candidates. This meant that the AI downgraded resumes with words such as “women’s” (as in the case with “women’s chess club captain”). Similarly, graduates from two all-women’s colleges were also ranked lower.
+By 2015, the company recognized the tool was not evaluating applicants for various roles in a gender-neutral way, and the program was eventually disbanded. The incident came to light in 2018 after Reuters reported it.
+The GDPR (Article 22(1)) imposes legal requirements on whoever uses the AI system for profiling and/or automated decision-making purposes, even if they acquired the system from a third party. These requirements include:
+•	Fairness, which includes preventing individuals from being discriminated against;
+•	Transparency towards individuals, including meaningful information about the logic involved in the AI system; and
+•	The right to human intervention, enabling the individual to challenge the automated decision.
+3 steps to ensure AI is served in a responsible way
+Organisations must think of AI technology in a holistic way – understanding where AI sits in the value chain and creating the right structures to ensure long-term governance by:
+•	Establishing internal governance, for example by an objective review panel, that is diverse and that has the knowledge to understand the possible consequences of AI infused systems. A key success factor is leadership support and the power to hold leadership accountable.
+•	Ensuring the right technical guardrails, creating quality assurance and governance to create traceability and audit ability for AI systems. This is an important part of every organisation’s toolkit to allow operational and responsible AI to scale.
+•	Investing more in their own AI education and training so that all stakeholders – both internal and external – are informed of AI capabilities as well as the pitfalls.
