@@ -1,0 +1,22 @@
+                                    Support Vector Machine Algorithm 
+SVMs were first introduced by B.E. Boser et al. in 1992 and has become popular due to success in handwritten digit recognition in 1994.
+Before the emergence of Boosting Algorithms, for example, XGBoost and AdaBoost, SVMs had been commonly used.
+Support Vector Machine Algorithm is a supervised learning model that analyses data used for classification and regression analyses.
+They essencially filter data into categories, which is achieved by providing a set of training examples, each set marked as belonging to one or the other of the two categories.
+The algorithm then works to build a model that assigns new variables to one category or the other. 
+
+it is a suitable classifier in following cases:
+1) When number of features (variables) and number of training data is very large (say millions of features and millions of instances (data)).
+2) When sparsity in the problem is very high, i.e., most of the features have zero value.
+3) It is the best for document classification problems where sparsity is high and features/instances are also very high.
+4) It also performs very well for problems like image classification, genes classsification, drug disambiguation etc. where number of features are high.
+
+It is one of the best, because of following things:
+1) It uses Kernel trick
+2) It is Optimal margin based classification technique in Machine Learning.
+3) Good number of algorithms are proposed which utilizes problem structures and other smaller-smaller things like problem shrinking during optimization etc.
+
+it uses a technique called the kernel trick to transform your data and then based on these transformations it finds an optimal boundary between the possible outputs.
+SVM is used for identifying the classification of genes, patients on the basis of genes and other biological problems. 
+Protein fold and remote homology detection – Apply SVM algorithms for protein remote homology detection.
+Handwriting recognition – it is used to recognize handwritten characters used widely.
